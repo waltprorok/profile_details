@@ -1,6 +1,6 @@
 # Walter Prorok
 ## Web Application Developer
-### 9 years of full stack web developement experience.
+### 9 years of full stack web development experience.
 #### Location: Orlando, FL
 #### Remote: 4 years
 
