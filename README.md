@@ -1,8 +1,8 @@
 # Walter Prorok
 ## Web Application Developer
-### 9 years of full stack web development experience.
+### 10 years of full stack web development experience.
 #### Location: Orlando, FL
-#### Remote: 4 years
+#### Remote: 5 years
 
 ### LinkedIn Profile
 * Profile on LinkedIn: 
@@ -11,14 +11,13 @@
 ## Preferred Languages:
 * Php
 * Laravel
+* SQL
 * HTML
 * CSS
 * JavaScript
 * jQuery
 * VueJS
 * AngularJS
-* MySQL
-* Python
 
 ## Tools:
 * PhpStorm (IDE)
@@ -26,9 +25,10 @@
 * Git
 * Composer
 * NPM
-* Co-Pilot / Chat GPT
+* Chat GPT / Co-Pilot
 
 ## Domains:
+* Finance
 * Trucking Insurance
 * Pharmaceutical Software
 * Telecommunication
